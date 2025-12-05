@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "優しい君へ",
+  "base_artist": "Nornis",
+  "createdAt": "2025-12-05T12:21:32.090417Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "優しい君へ",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_優しい君へ_Nornis.txt"
+    }
+  ]
+}
